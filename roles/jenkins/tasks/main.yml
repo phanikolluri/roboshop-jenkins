@@ -5,6 +5,7 @@
     url: "http://jenkins.devopslearner.online:8080"
     user: "admin"
     token: "11ca0cede34faaef30a5549672e08afd3b"
+  loop: "{{folders}}"
     
 - name: Create Pipeline Jobs
   community.general.jenkins_job:
