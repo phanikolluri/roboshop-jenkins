@@ -6,7 +6,7 @@
     user: "admin"
     token: "11ca0cede34faaef30a5549672e08afd3b"
   loop:
-    - { jobName: "cart", folderName: "/", repoName: "cart", componentName: "cart" }
+    - { jobName: "cart", folderName: "", repoName: "cart", componentName: "cart" }
 
 
 
